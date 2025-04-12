@@ -118,5 +118,5 @@ Through this project, I gained a deeper understanding of:
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/RKirlew/ocular-disease-classification.git
+  git clone https://github.com/RKirlew/Ocular-Disease-Classification-Using-Custom-CNN-in-PyTorch.git
 
